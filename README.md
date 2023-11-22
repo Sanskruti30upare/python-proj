@@ -18,4 +18,4 @@ project video link :
 https://drive.google.com/file/d/1IPyPFBT1B4BIxJK4LAlrwojFQo8Xhevg/view?usp=sharing
 
 project URL :
-http://myquizapp.cfd8fhbuagb0dqbs.eastus.azurecontainer.io
+http://myquizapp.cfd8fhbuagb0dqbs.eastus.azurecontainer.io/
